@@ -1,1 +1,2 @@
 # odin-recipes
+A basic HTML website showcasing different cooking recipes. Upong completion of the project I will have understood the fundamentals of HTML as well as the basics of git version control and Github. 
