@@ -1,0 +1,63 @@
+* {
+    font-family: "Cambria", "Cochin", Georgia, Times, 'Times New Roman', serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+.home {
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(252, 255, 214);
+}
+
+img {
+    box-shadow: 10px 10px black;
+    margin: 10px;
+}
+
+.intro {
+    margin: 10px;
+    padding: 10px;
+}
+
+.ingredients li {
+    margin: 30px;
+}
+
+.steps {
+    margin: 10px;
+    padding: 10px;
+}
+
+
+.recipes {
+    list-style-type: none;
+    margin: 0px;
+}
+
+
+
+a {
+    display: flex;
+    justify-content: center;
+    background-size: 50%;
+    text-decoration: none;
+    background-color: rgb(228, 107, 107);
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+a:hover {
+    background-color: rgb(252, 70, 70);
+    height: 25px;
+    justify-content: center;
+}
